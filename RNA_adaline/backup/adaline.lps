@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="adaline.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uadaline.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uAdaline"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="353"/>
+        <CursorPos Y="373"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="227" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="229" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="227" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="229" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="227" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="229" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="227" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="229" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="227" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="231" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="233" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="234" TopLine="208"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="235" TopLine="209"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="237" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="235" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="237" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="235" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="237" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="235" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="237" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="261" TopLine="245"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="314" Column="13" TopLine="301"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="300" Column="58" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="384" Column="48" TopLine="362"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="371" Column="3" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="393" Column="49" TopLine="363"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="399" Column="47" TopLine="379"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="371" Column="47" TopLine="353"/>
+      </Position>
+      <Position>
+        <Filename Value="uadaline.pas"/>
+        <Caret Line="367" Column="11" TopLine="359"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uadaline.pas"/>
+        <Line Value="373"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="epoca_atual"/>
+      </Item>
+      <Item>
+        <Expression Value="error"/>
+      </Item>
+      <Item>
+        <Expression Value="saida_desejada"/>
+      </Item>
+      <Item>
+        <Expression Value="y"/>
+      </Item>
+      <Item>
+        <Expression Value="Teste"/>
+      </Item>
+      <Item>
+        <Expression Value="saida_calculada"/>
+      </Item>
+      <Item>
+        <Expression Value="TError1"/>
+      </Item>
+      <Item>
+        <Expression Value="TErrorS1"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
